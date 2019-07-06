@@ -1,4 +1,4 @@
-# {Pet homepage}
+# Pet homepage
 #### A pet website, 03/07/2019
 #### By **Joseph Adediji**
 ## Description
